@@ -1,21 +1,23 @@
 {
   "name": "app-portafolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portafolio personal de Federico Barraza",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url ./",
-    "predeploy": "pnpm run build",
+    "build": "parcel build src/index.html --public-url /dev.fedebar/",
     "deploy": "gh-pages -d dist"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "portfolio",
+    "web",
+    "frontend"
+  ],
+  "author": "Federico Barraza",
   "license": "ISC",
-  "packageManager": "pnpm@10.5.1",
+  "packageManager": "pnpm@8.15.5", 
   "devDependencies": {
     "parcel": "^2.16.0",
     "gh-pages": "^6.0.0"
   }
-  
 }
