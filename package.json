@@ -2,6 +2,7 @@
   "name": "app-portafolio",
   "version": "1.0.0",
   "description": "",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url ./",
@@ -16,4 +17,5 @@
     "parcel": "^2.16.0",
     "gh-pages": "^6.0.0"
   }
+  
 }
