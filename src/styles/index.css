@@ -401,15 +401,16 @@ a:hover{
 }
 /*ICONOS Tech*/
 .iconos_dos h1 {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .iconos_dos{
     margin: 0 auto;
     margin-top: 30px;
     padding: 10px;
     width: 320px;
-    height: 180px;
+    height: 300px;
     text-align: center;
+   /* background-color: red;*/
 }
 @media (min-width: 900px) {
   .iconos_dos{
@@ -417,7 +418,7 @@ a:hover{
     height: 200px;
   }
 }
-.iconos_dos i {
+.iconos_dos i{
     font-size: 40px;
     padding-left: 20px;
     padding-right: 20px;
@@ -427,6 +428,18 @@ a:hover{
 .fa-html5:hover { 
     cursor: pointer;
     color: rgb(255, 145, 0);
+    transform: translateY(-6px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.fa-file-code:hover{
+    cursor: pointer;
+    color: rgb(47, 67, 252);
+    transform: translateY(-6px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.fa-node-js:hover{ 
+    cursor: pointer;
+    color: rgb(30, 88, 22);
     transform: translateY(-6px);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -444,19 +457,25 @@ a:hover{
 }
 .fa-git-alt:hover {
     cursor: pointer;
-    color: rgb(196, 48, 48);
+    color: rgb(212, 59, 59);
     transform: translateY(-6px);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+.fa-database:hover {
+    cursor: pointer;
+    color: rgb(196, 0, 59);
+    transform: translateY(-6px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;  
+}
 .fa-github:hover {
     cursor: pointer;
-    color: rgb(114, 33, 101);
+    color: rgb(124, 57, 124);
     transform: translateY(-6px);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .fa-figma:hover {
     cursor: pointer;
-    color: rgb(31, 167, 42);
+    color: rgb(0, 0, 0);
     transform: translateY(-6px);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

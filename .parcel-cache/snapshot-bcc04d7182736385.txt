@@ -1,4 +1,4 @@
-21101
+21111
 71C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\src\js\index.ts134072099956720205 0
 178C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\profiler\lib\index.js133976065150161970 0
 132C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\universalify@2.0.1\node_modules\universalify\package.json134057289763431391 0
@@ -659,7 +659,7 @@
 192C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\parcel@2.16.1_@swc+helpers@0.5.17\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133976065088643802 0
 123C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\caniuse-lite\data\regions\alt-af.js134072094071852761 0
 159C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\caniuse-lite@1.0.30001754\node_modules\caniuse-lite\data\features\x-frame-options.js134072094084305938 0
-153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\heads\gh-pages134072827007307493 0
+153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\heads\gh-pages134072843060249198 0
 126C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\to-regex-range@5.0.1\node_modules\is-number\LICENSE133976065141794174 0
 89C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\p-locate@4.1.0134072094090645229 1
 143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+profiler@2.16.1\node_modules\chrome-trace-event\package.json133976065090545599 0
@@ -3860,6 +3860,7 @@
 119C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\caniuse-lite\data\regions\BJ.js134072094072702879 0
 153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\parcel@2.16.1_@swc+helpers@0.5.17\node_modules\@parcel\core\test\test-utils.js133976065090992008 0
 120C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\merge2@1.4.1\node_modules\merge2\package.json134057289763210267 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\43134072843058493615 1
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\InternalConfig.js133976065089541392 0
 113C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\ordered-binary\index.d.ts133976065149872900 0
 153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\parcel@2.16.1_@swc+helpers@0.5.17\node_modules\@parcel\core\test\utils.test.js133976065091112313 0
@@ -6263,7 +6264,6 @@
 117C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\escape-string-regexp\index.js134057289765498835 0
 121C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\escape-string-regexp\package.json134057289765478793 0
 118C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\escape-string-regexp\readme.md134057289765508871 0
-160C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\app-portafolio.0ce652b6.css.map134072827005235196 0
 101C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\escalade\dist134072094095658299 1
 128C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\fast-glob@3.3.3\node_modules\fast-glob\out\index.d.ts134057289763492125 0
 170C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+bundler-default@2.1_98155c8272fc5669ec2b8ecd3c5b55d2\node_modules\@parcel\graph\LICENSE133976065072530425 0
@@ -7589,7 +7589,7 @@
 124C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\caniuse-lite\data\features\run-in.js134072094081712813 0
 145C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\ac3-ec3.js134072094071654695 0
 165C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133976065140151627 0
-143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\ORIG_HEAD134072827004639463 0
+143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\ORIG_HEAD134072843057495051 0
 143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\dist\unpacker\index.js133976065132530660 0
 143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+core@1.15.1_@swc+helpers@0.5.17\node_modules\@swc\core\spack.js133976065097197846 0
 158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\caniuse-lite@1.0.30001754\node_modules\caniuse-lite\data\features\resizeobserver.js134072094081555009 0
@@ -7772,7 +7772,7 @@
 167C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-css@2.1_5908a030a736d77521e374714506c582\node_modules\nullthrows\LICENSE133976065090595599 0
 109C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\parse.js133976065096487098 0
 145C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\caniuse-lite@1.0.30001754\node_modules\caniuse-lite\data\regions\AI.js134072094071803849 0
-138C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\HEAD134072827003785617 0
+138C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\HEAD134072843056623417 0
 143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\baseline-browser-mapping134072094109123703 0
 134C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\fast-glob@3.3.3\node_modules\fast-glob\out\types\index.d.ts134057289763502113 0
 147C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\baseline-browser-mapping.ps1134072094109123703 0
@@ -7788,7 +7788,7 @@
 131C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\browserslist134072094109123703 0
 135C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\browserslist.CMD134072094109123703 0
 174C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+reporter-tracer@2.1_6607e13c6b8d286b9088bae3181a6e2a\node_modules\@parcel\utils\src\blob.js133976065088942727 0
-139C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\index134072827007146374 0
+139C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\index134072843060195702 0
 210C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node-gyp-build-optional-packages@5.1.1\node_modules\node-gyp-build-optional-packages\node_modules\.bin\node-gyp-build-optional-packages134072094109849032 0
 135C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\browserslist.ps1134072094109133699 0
 141C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\browserslist\node_modules\.bin\update-browserslist-db134072094109123703 0
@@ -10193,6 +10193,7 @@
 128C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\@nodelib\fs.stat\out\providers\sync.d.ts134057289765141389 0
 123C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\@nodelib\fs.stat\out\adapters\fs.js134057289765012518 0
 187C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-image@2_f93bc4b8f3034aad0346d93a33586015\node_modules\@parcel\core\lib\public\BundleGroup.js133976065089012736 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\5a134072843058477660 1
 117C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\@nodelib\fs.scandir\README.md134057289765651495 0
 149C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+core@2.16.1_@swc+helpers@0.5.17\node_modules\json5\lib\register.js133976065096002158 0
 124C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node_modules\@nodelib\fs.scandir\out\constants.js134057289765558858 0
@@ -10360,6 +10361,7 @@
 215C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node-gyp-build-optional-packages@5.1.1\node_modules\node-gyp-build-optional-packages\node_modules\.bin\node-gyp-build-optional-packages-test134072094109849032 0
 219C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\node-gyp-build-optional-packages@5.1.1\node_modules\node-gyp-build-optional-packages\node_modules\.bin\node-gyp-build-optional-packages-test.CMD134072094109859098 0
 203C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-js@2.16_7657fc0c0ac7155cd43dfe92e3f78e40\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src134072094100113136 1
+183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\5a\19a3c8ed0cbcde3a641698d2b3949dc2d58b45134072843058463578 0
 187C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\packager-js\src\.eslintrc.json133976065102307693 0
 204C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+package-manager@2.1_c73bb082f1ad3bf2c952c3646f0409da\node_modules\@parcel\package-manager\test\NodePackageManager.test.js133976065086209764 0
 158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+core@2.16.1_@swc+helpers@0.5.17\node_modules\@parcel\core\src\assetUtils.js133976065088821570 0
@@ -11910,7 +11912,7 @@
 124C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\color-name@1.1.4\node_modules\color-name\index.js133957930322317904 0
 128C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\color-name@1.1.4\node_modules\color-name\package.json133957930322277899 0
 125C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\color-name@1.1.4\node_modules\color-name\README.md133957930322377899 0
-144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\FETCH_HEAD134072826999267129 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\FETCH_HEAD134072843053078650 0
 180C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+resolver-default@2._1228393bdaf011641442161f91ba51cf\node_modules\@parcel\plugin\lib\PluginAPI.js133976065092252894 0
 107C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\color-convert@2.0.1\node_modules134072094091813421 1
 127C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\color-convert@2.0.1\node_modules\color-name\index.js133957930322317904 0
@@ -12905,6 +12907,7 @@
 160C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\css-background-offsets.js134072094073716124 0
 175C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-image@2_f93bc4b8f3034aad0346d93a33586015\node_modules\@parcel\core\test\requests134072094098176790 1
 151C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\css-boxshadow.js134072094073757346 0
+183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\a7\e4cd8c3f063d9eb4c0788dfe2d66640e8adb3d134072843060180107 0
 153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\css-caret-color.js134072094073777335 0
 156C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\css-cascade-layers.js134072094073787332 0
 155C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\browserslist@4.27.0\node_modules\caniuse-lite\data\features\css-cascade-scope.js134072094073812438 0
@@ -13423,7 +13426,7 @@
 192C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-image@2_f93bc4b8f3034aad0346d93a33586015\node_modules\@parcel\workers\src\process\ProcessChild.js133976065093575594 0
 158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+core@2.16.1_@swc+helpers@0.5.17\node_modules\@parcel\core\lib\Dependency.js133976065089174011 0
 153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_class_private_field_set.mjs133976065140071171 0
-133C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git134072827007307493 1
+133C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git134072843060270704 1
 177C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\workers\package.json134072094070102077 0
 108C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\base-x@3.0.11\node_modules\base-x134072094097023678 1
 158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+types-internal@2.16.1\node_modules\@parcel\types-internal\src\FileSystem.js133976065098450497 0
@@ -14388,6 +14391,7 @@
 181C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-js@2.16_7657fc0c0ac7155cd43dfe92e3f78e40\node_modules\@swc\helpers\_\_set_prototype_of134072094102184788 1
 168C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+core@1.15.1_@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133976065140713742 0
 170C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+core@1.15.1_@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133976065140765489 0
+183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\43\50baf03f32f6e90f0ec8f27f472c7aac56a31b134072843058481886 0
 176C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+core@1.15.1_@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133976065140755472 0
 169C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+runtime-rsc@2.16.1__24f0beab9736898939b034107ef1ed6c\node_modules\@parcel\rust\LICENSE133976065072530425 0
 152C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@swc+core@1.15.1_@swc+helpers@0.5.17\node_modules\@swc\helpers\src\_throw.mjs133976065140785469 0
@@ -14905,7 +14909,7 @@
 180C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\core\src\Environment.js133976065089409357 0
 174C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\core\src\index.js133976065089469520 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\core\src\InternalConfig.js133976065089561378 0
-153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\remotes\origin134072827027541519 1
+153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\remotes\origin134072843079949571 1
 175C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+package-manager@2.1_c73bb082f1ad3bf2c952c3646f0409da\node_modules\@parcel\utils\src\index.js133976065089344293 0
 179C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\core\src\loadDotEnv.js133976065089601389 0
 185C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+workers@2.16.1_@par_2ba17087e97c0a455203c39e88b84498\node_modules\@parcel\core\src\loadParcelPlugin.js133976065089636657 0
@@ -15124,7 +15128,7 @@
 151C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+utils@2.16.1\node_modules\@parcel\utils\test\input\config\empty.toml133957930320105460 0
 139C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+utils@2.16.1\node_modules\@parcel\utils\src\ansi-html.js133976065088922737 0
 138C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+utils@2.16.1\node_modules\@parcel\utils\src\debounce.js133976065089043504 0
-158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\refs\heads\gh-pages134072827007307493 0
+158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\refs\heads\gh-pages134072843060249198 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+cache@2.16.1_@parce_53d850be8f0ee920aa2532657169ec19\node_modules\@parcel\core\test\fixtures\context134072094101458551 1
 138C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+utils@2.16.1\node_modules\@parcel\utils\src\Deferred.js133976065089093506 0
 141C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+utils@2.16.1\node_modules\@parcel\utils\src\escape-html.js133976065089134051 0
@@ -15343,6 +15347,7 @@
 170C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+transformer-js@2.16_7657fc0c0ac7155cd43dfe92e3f78e40\node_modules\browserslist\parse.js133976065096487098 0
 156C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+types-internal@2.16.1\node_modules\@parcel\types-internal\src\FilePath.js133976065098440466 0
 152C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+types-internal@2.16.1\node_modules\@parcel\types-internal\src\Glob.js133976065098470460 0
+183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\3d\232ec1b54f431dbaf0a2b3655a578eb83940cc134072843058513591 0
 153C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+types-internal@2.16.1\node_modules\@parcel\types-internal\src\index.js133976065098480468 0
 176C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+packager-js@2.16.1__dec14ec0113dcad21871ad6ea11684ed\node_modules\@parcel\utils\src\config.js133976065089002731 0
 162C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+types-internal@2.16.1\node_modules\@parcel\types-internal\src\PackageManager.js133976065098490465 0
@@ -18681,7 +18686,7 @@
 211C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133976065091388132 0
 211C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133976065091378145 0
 213C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133976065091368150 0
-140C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\config134072827006364794 0
+140C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\config134072843059327879 0
 212C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133976065091348119 0
 196C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\context\package.json133976065091328141 0
 210C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133976065088530136 0
@@ -18764,7 +18769,7 @@
 185C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\UncommittedAsset.js133976065091052285 0
 190C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\requests\AssetRequest.js133976065088786489 0
 196C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133976065088982724 0
-148C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\COMMIT_EDITMSG134072827007146374 0
+148C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\COMMIT_EDITMSG134072843060215818 0
 191C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\requests\ConfigRequest.js133976065089103504 0
 191C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\requests\DevDepRequest.js133976065089239126 0
 196C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-image@2.1_c57de60fdf53d6602211edec903aa3f6\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133976065089912095 0
@@ -18822,6 +18827,7 @@
 176C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-html@2.16_95c0aa69aacd7880918a2627856955b4\node_modules\@parcel\utils\src\is-url.js133976065089374306 0
 187C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-html@2.16_95c0aa69aacd7880918a2627856955b4\node_modules\@parcel\utils\src\isDirectoryInside.js133976065089394302 0
 180C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-html@2.16_95c0aa69aacd7880918a2627856955b4\node_modules\@parcel\utils\src\objectHash.js133976065089429452 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\f0134072843060238768 1
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-html@2.16_95c0aa69aacd7880918a2627856955b4\node_modules\@parcel\utils\src\openInBrowser.js133976065089459515 0
 184C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+optimizer-html@2.16_95c0aa69aacd7880918a2627856955b4\node_modules\@parcel\utils\src\parseCSSImport.js133976065089469520 0
 136C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@nodelib+fs.scandir@2.1.5\node_modules\run-parallel\README.md134057289765886623 0
@@ -20504,6 +20510,7 @@
 174C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\types.js133976065091032327 0
 179C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\Validation.js133976065091122710 0
 175C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\worker.js133976065091182719 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\3d134072843058525523 1
 191C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\requests\ConfigRequest.js133976065089103504 0
 190C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\requests\EntryRequest.js133976065089324242 0
 192C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@parcel+config-default@2.16_a3ca5c4928c4e55442aacf704019fe3f\node_modules\@parcel\core\lib\requests\PackageRequest.js133976065089751925 0
@@ -21054,30 +21061,33 @@
 129C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@lezer+common@1.3.0\node_modules\@lezer\common\LICENSE133976065115396273 0
 131C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@lezer+common@1.3.0\node_modules\@lezer\common\README.md133976065115640316 0
 138C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.pnpm\@lezer+common@1.3.0\node_modules\@lezer\common\dist\index.d.cts134058151852387490 0
-128C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git134072827005161281 1
-156C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\app-portafolio.0ce652b6.css134072827005161281 0
-148C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\img_me.7b688e65.jpg134072827005235196 0
-139C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\index.html134072827005235196 0
+128C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git134072843058064897 1
+156C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\app-portafolio.64656f27.css134072843058074920 0
+160C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\app-portafolio.64656f27.css.map134072843058078769 0
+148C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\img_me.7b688e65.jpg134072843058096982 0
+139C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\index.html134072843058081790 0
 159C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.parcel-cache\11f647d552d3b404134072110937837857 0
 159C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.parcel-cache\a5a407c3ab9b51d0134072110938094002 0
 159C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.parcel-cache\c637e87ff8b1aad5134072110938119130 0
 151C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.parcel-cache\data.mdb134072110938251951 0
 172C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.parcel-cache\snapshot-1df8d9e231807227.txt134072110938363359 0
-141C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects134072827007464803 1
+141C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects134072843060461100 1
 145C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\packed-refs134072110937707290 0
 141C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\shallow134072110924935421 0
-144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\heads134072827007307493 1
-162C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\remotes\origin\gh-pages134072827027531517 0
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\heads134072843060263707 1
+162C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\refs\remotes\origin\gh-pages134072843079939558 0
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\07134072110962877148 1
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\20134072110964108615 1
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\60134072110962728770 1
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\6d134072827007146374 1
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\82134072827007146374 1
 144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\99134072110962748822 1
+144C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\a7134072843060195702 1
 146C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\pack134072110937786666 1
 196C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\pack\pack-f17372d66afca7ca57144642baf7ad3c1af37a04.idx134072110937187295 0
-197C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\pack\pack-f17372d66afca7ca57144642baf7ad3c1af37a04.pack134072827005448918 0
+197C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\pack\pack-f17372d66afca7ca57144642baf7ad3c1af37a04.pack134072843058513591 0
 196C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\pack\pack-f17372d66afca7ca57144642baf7ad3c1af37a04.rev134072110937336806 0
+183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\f0\5e71b5ff3586f23b19d5cf5e9a08c00516d1fb134072843060225752 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\99\1a1dc5769bf3c405753fc943e85b52bfed3ebb134072110962738819 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\89\29d0ca308de239c971491da6d916cb644c30e3134072827005607704 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\82\4e6aaf3a5fac1acabbb8c7925378a5b834c2b8134072110962799871 0
@@ -21085,8 +21095,8 @@
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\60\9ef8afbc5da6dd7353e4b300dcc28e8c5671fb134072110962712726 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\20\2292bef1b548909e9008b93db232fe6ecd0eb9134072110964092306 0
 183C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\objects\07\a15b01b825b6c89c5e7f38236487905b1a581e134072110962877148 0
-143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\HEAD134072827007307493 0
-167C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\refs\remotes\origin\gh-pages134072827027531517 0
+143C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\HEAD134072843060249198 0
+167C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\logs\refs\remotes\origin\gh-pages134072843079949571 0
 157C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\hooks\commit-msg.sample134072110904794451 0
 165C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\hooks\fsmonitor-watchman.sample134072110904804451 0
 158C:\Users\Fedeb\programacion-fede\PROPIOS\app-portafolio\node_modules\.cache\gh-pages\git@github.com!fedebarrazaa!dev.fedebar.git\.git\hooks\pre-receive.sample134072110904841926 0
