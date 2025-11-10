@@ -207,15 +207,15 @@
       });
     }
   }
-})({"3TZtp":[function(require,module,exports,__globalThis) {
+})({"4YiMC":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
-var HMR_ENV_HASH = "439701173a9199ea";
+var HMR_ENV_HASH = "d6ea1d42532a7575";
 var HMR_USE_SSE = false;
-module.bundle.HMR_BUNDLE_ID = "3c69d58c8ebe26fa";
+module.bundle.HMR_BUNDLE_ID = "7055c94b59712999";
 "use strict";
 /* global HMR_HOST, HMR_PORT, HMR_SERVER_PORT, HMR_ENV_HASH, HMR_SECURE, HMR_USE_SSE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
@@ -713,19 +713,8 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
     }
 }
 
-},{}],"1i6kV":[function(require,module,exports,__globalThis) {
-//SE USO SOLAMENTE PARA MOSTRAR LA IMG
-/*import imgMe from "../assets/img_me.jpg";
+},{}],"4M6V8":[function(require,module,exports,__globalThis) {
 
-const cardImg = document.querySelector<HTMLImageElement>(".card__img");
+},{}]},["4YiMC","4M6V8"], "4M6V8", "parcelRequire8a8e", {})
 
-if (cardImg) {
-  cardImg.src = imgMe;
-  console.log("✅ Imagen asignada:", imgMe);
-} else {
-  console.log("❌ No se encontró el elemento .card__img");
-}
-*/ 
-},{}]},["3TZtp","1i6kV"], "1i6kV", "parcelRequire8a8e", {})
-
-//# sourceMappingURL=app-portafolio.8ebe26fa.js.map
+//# sourceMappingURL=app-portafolio.59712999.js.map
